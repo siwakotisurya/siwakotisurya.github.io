@@ -1,0 +1,46 @@
+.header{
+	margin-top: 5px; 
+}
+.img{
+	background-image: url(img/logo.png);
+border-radius:15px;
+float: left;
+padding: 10px;
+width: 50px;
+height: 50px;
+background-color: red;
+opacity: .90;
+}
+.h{
+float: left;
+width: 400px;
+height: 100px;
+margin-left: 10px;
+opacity: .90;
+margin-top: 20px;
+font-size: 20px;
+}
+.h:hover{
+	opacity: .5;
+}
+.img:hover{
+opacity: .5;
+}
+a{
+	text-decoration: none;
+}
+.navbar{
+	width: 100%;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+.navbar li {
+	display: inline;
+	opacity: .85;
+	padding-left: 10px;
+	font-size:10px;
+}
+.navbar li a:hover{
+	opacity: .5;
+	background-color: gray;
+}

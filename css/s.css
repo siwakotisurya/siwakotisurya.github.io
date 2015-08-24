@@ -1,0 +1,12 @@
+#header{
+	background-color: red;
+}
+#navbar{
+	margin-left: 200px;
+	margin-top: 70px;
+
+}
+#navbar li{
+		display: inline;
+		text-transform:uppercase;
+}
